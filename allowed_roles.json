@@ -1,14 +1,18 @@
 {
   "all": [
+    { "name": "Misterchamp", "id": "1031144600187973642" },
     { "name": "Ashley", "id": "291354776044830720" }
   ],
   "mod-app": [
     { "name": "Misterchamp", "id": "1031144600187973642" },
-    { "name": "Ashley", "id": "291354776044830720" }
+    { "name": "Ashley", "id": "291354776044830720" },
+    { "name": "Nouruton", "id": "600192768270139413" }
   ],
   "media-application": [
     { "name": "Misterchamp", "id": "1031144600187973642" },
-    { "name": "Ashley", "id": "291354776044830720" }
+    { "name": "Ashley", "id": "291354776044830720" },
+    { "name": "Kai", "id": "458756998603735042" },
+    { "name": "Shufflie", "id": "729316403991150662" }
   ],
   "leadership": [
     { "name": "Misterchamp", "id": "1031144600187973642" },
@@ -16,15 +20,20 @@
   ],
   "events": [
     { "name": "Misterchamp", "id": "1031144600187973642" },
-    { "name": "Ashley", "id": "291354776044830720" }
+    { "name": "Ashley", "id": "291354776044830720" },
+    { "name": "Omer", "id": "752132512272351239" },
+    { "name": "Scarlet", "id": "219738250892279808" }
   ],
   "driverapplications": [
     { "name": "Misterchamp", "id": "1031144600187973642" },
-    { "name": "Ashley", "id": "291354776044830720" }
+    { "name": "Ashley", "id": "291354776044830720" },
+    { "name": "X", "id": "1334195615160205366" },
+    { "name": "Queen", "id": "853019212174589982" }
   ],
   "community": [
     { "name": "Misterchamp", "id": "1031144600187973642" },
-    { "name": "Ashley", "id": "291354776044830720" }
+    { "name": "Ashley", "id": "291354776044830720" },
+    { "name": "Nouruton", "id": "600192768270139413" }
   ],
   "translation-application": [
     { "name": "Misterchamp", "id": "1031144600187973642" },
@@ -36,25 +45,40 @@
   ],
   "management": [
     { "name": "Misterchamp", "id": "1031144600187973642" },
-    { "name": "Ashley", "id": "291354776044830720" }
+    { "name": "Ashley", "id": "291354776044830720" },
+    { "name": "Kai", "id": "458756998603735042" },
+    { "name": "Shufflie", "id": "729316403991150662" },
+    { "name": "X", "id": "1334195615160205366" },
+    { "name": "Queen", "id": "853019212174589982" },
+    { "name": "Omer", "id": "752132512272351239" },
+    { "name": "Scarlet", "id": "219738250892279808" }
   ],
   "humanresources": [
-    { "name": "Ashley", "id": "291354776044830720" }
+    { "name": "Misterchamp", "id": "1031144600187973642" },
+    { "name": "Ashley", "id": "291354776044830720" },
+    { "name": "X", "id": "1334195615160205366" },
+    { "name": "Queen", "id": "853019212174589982" }
   ],
   "hr-application": [
     { "name": "Misterchamp", "id": "1031144600187973642" },
-    { "name": "Ashley", "id": "291354776044830720" }
+    { "name": "Ashley", "id": "291354776044830720" },
+    { "name": "X", "id": "1334195615160205366" },
+    { "name": "Queen", "id": "853019212174589982" }
   ],
   "graphics-application": [
     { "name": "Misterchamp", "id": "1031144600187973642" },
-    { "name": "Ashley", "id": "291354776044830720" }
+    { "name": "Ashley", "id": "291354776044830720" },
+    { "name": "Kai", "id": "458756998603735042" }
   ],
   "events-application": [
     { "name": "Misterchamp", "id": "1031144600187973642" },
-    { "name": "Ashley", "id": "291354776044830720" }
+    { "name": "Ashley", "id": "291354776044830720" },
+    { "name": "Omer", "id": "752132512272351239" },
+    { "name": "Scarlet", "id": "219738250892279808" }
   ],
   "addon-application": [
     { "name": "Misterchamp", "id": "1031144600187973642" },
-    { "name": "Ashley", "id": "291354776044830720" }
+    { "name": "Ashley", "id": "291354776044830720" },
+    { "name": "Fluffy", "id": "1003765494140129300" }
   ]
 }
